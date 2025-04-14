@@ -4,3 +4,6 @@
 [submodule "external/MedSAM"]
 	path = external/MedSAM
 	url = https://github.com/bowang-lab/MedSAM.git
+[submodule "external/finetune-SAM"]
+	path = external/finetune-SAM
+	url = https://github.com/mazurowski-lab/finetune-SAM
