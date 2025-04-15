@@ -7,3 +7,7 @@
 [submodule "external/finetune-SAM"]
 	path = external/finetune-SAM
 	url = https://github.com/mazurowski-lab/finetune-SAM
+[submodule "nnUNet"]
+	path = nnUNet
+[submodule "external/nnUNet"]
+	path = external/nnUNet
